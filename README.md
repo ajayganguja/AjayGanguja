@@ -3,7 +3,8 @@
 
 ## Glad to see you here! 
 
-![freelancer-hero-mobile](https://user-images.githubusercontent.com/84345490/170512878-eba3f1f4-3758-4782-979f-bc58f0fcff4e.gif)
+![download](https://user-images.githubusercontent.com/84345490/170513614-96977e6b-795b-41b4-866c-59d44d774175.png)
+
 
 🎓 I am Ajay Ganguja, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in web development and Mobile App development (specializing in React Applications) and a Freelancer on Upwork and Fiverr.
 
