@@ -1,5 +1,6 @@
 # 👋 Hi, I’m AjayGanguja!
-[68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6768305252676b54586564764630704463302f67697068792e676966](https://user-images.githubusercontent.com/84345490/170499681-2e4850a1-d7a8-4483-a55a-e33e6e3d9258.gif)
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 
 
 - 💻 Completed 2 internships at Full Stack Developer Position
