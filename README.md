@@ -3,6 +3,8 @@
 
 ## Glad to see you here! 
 
+![freelancer-hero-mobile](https://user-images.githubusercontent.com/84345490/170512878-eba3f1f4-3758-4782-979f-bc58f0fcff4e.gif)
+
 🎓 I am Ajay Ganguja, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in web development and Mobile App development (specializing in React Applications) and a Freelancer on Upwork and Fiverr.
 
 💻 I learned Next.js, Progressive Web App (PWA), GraphQL, Micro-Frontend Architecture and Blockchain development & DApps. I got started with Freelancing quite recently and made a name for myself.
