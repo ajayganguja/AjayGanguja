@@ -1,4 +1,5 @@
-# Hi there, I'm Ajay Ganguja
+\# Hi there, I'm Ajay Ganguja <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 ## Glad to see you here! 
 
@@ -48,18 +49,6 @@
 ![Ajayganguja's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayganguja&show_icons=true&theme=radical)
 
 
-
-
-
-
-
-
-<a href="https://github.com/ajayganguja/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajayganguja&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/ajayganguja/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajayganguja&repo=convoychat" />
-</a>
 
 
 
