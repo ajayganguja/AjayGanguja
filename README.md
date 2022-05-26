@@ -1,9 +1,9 @@
-# Hi there, I'm Ajay Ganguja <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi I'm Ajay Ganguja <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 ## Glad to see you here! 
 
-![Untitled-1](https://user-images.githubusercontent.com/84345490/170521007-4be33dc0-b6a2-4ffe-96d6-c62a407f9945.jpg)
+![Untitled-1](https://user-images.githubusercontent.com/84345490/170521680-42caa477-2da3-45f8-81c0-11a431ece4ef.jpg)
 
 
 
