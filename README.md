@@ -41,7 +41,6 @@
 
 
 
-[![AjayGanguja's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayganguja)](https://github.com/ajayganguja/github-readme-stats)
 ![Ajayganguja's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayganguja&show_icons=true&theme=radical)
 
 
