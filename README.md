@@ -14,18 +14,16 @@
 # 🏅 Achievements
 
 - 🏆 Seller Two at Fiverr
-- ✅ Have 4 Year of work experience in software industry
-- 🥇 Winner of Coding Competition at NED (March 2020)
-- 🌱 Experimenting with Ethereum Blockchain
-- 👯 Interested in Open Source, Cloud Technology, Blockchain and AI
-- 🤔 Exploring latest technologies and developing useful web apps
-- ✍️ Love designing UI/UX for applications and creating interesting web apps
-- 🎓 Studying Electronics & Communication Engineering
-- ✨ Learning AWS
+- ✅ Have Completed 4 Year of work experience in software industry
 - 🏆 Participated in 2 National and 1 International Hackathons
+- 🥇 Winner of Coding Competition at NED (March 2020)
+- 🌱 Succesfull in Experimenting with Ethereum Blockchain
+- 🤔 successfull to Explore latest technologies and developing useful web apps
+- ✍️ Got 5 Stars for designing UI/UX for applications and creating interesting web apps
+- ✨ Completed Learning AWS
 
 
-**Languages and Tools:**  
+# Languages and Tools: 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -39,6 +37,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+
+
+[![AjayGangujas GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayganguja)](https://github.com/ajayganguja/github-readme-stats)
 
 
 
