@@ -1,5 +1,8 @@
-# 👋 Hi, I’m AjayGanguja!
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+# 👋 Hi There,
+
+# 🚀 About Me
+
+🎓 I am Ajay Ganguja, a Mobile App and Front End Web Developer (specializing in React Applications) and a Freelancer on Upwork and Fiverr.
 
 
 
