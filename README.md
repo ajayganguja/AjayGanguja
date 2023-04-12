@@ -18,14 +18,13 @@
 
 # 🏅 Achievements
 
-- 🏆 Seller Two at Fiverr
-- ✅ Have Completed 4 Year of work experience in software industry
+- ✅ Have Completed 7 Year of work experience in software industry
 - 🏆 Participated in 2 National and 1 International Hackathons
 - 🥇 Winner of Coding Competition at NED (March 2020)
 - 🌱 Succesfull in Experimenting with Ethereum Blockchain
 - 🤔 successfull to Explore latest technologies and developing useful web apps
-- ✍️ Got 5 Stars for designing UI/UX for applications and creating interesting web apps
-- ✨ Completed Learning AWS
+- ✍️ Got 5 Stars for developing games,designing UI/UX for applications and creating interesting web apps
+- ✨ Completed Learning Metaverse game development, Unity Games, Blockchain Nft games
 
 
 # Languages and Tools: 
