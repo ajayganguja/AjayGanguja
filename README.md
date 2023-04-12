@@ -7,9 +7,9 @@
 
 
 
-🎓 I am Ajay Ganguja, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in web development and Mobile App development (specializing in React Applications) and a Freelancer on Upwork and Fiverr.
+🎓 I am Ajay Ganguja, Expert Unity 3d/2d Game Developer, App Developer \, creative coder and self-proclaimed designer who specializes in web development and Mobile App development, Game development and game designing and a Freelancer on Upwork and Freelancer.
 
-💻 I learned Next.js, Progressive Web App (PWA), GraphQL, Micro-Frontend Architecture and Blockchain development & DApps. I got started with Freelancing quite recently and made a name for myself.
+💻 I learned Unity games, Metaverse games and Blockchain development & Apps. I got started with Freelancing about 5 years ago and made a name for myself.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from Singing, Dancing, Vlogging.
 
